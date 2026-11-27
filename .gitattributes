@@ -1,2 +1,6 @@
 # disable line-ending changes (otherwise Windows developers with default settings from git install see Prettier wanting to fix every file)
 * -text
+dist/** linguist-generated
+build/** linguist-generated
+coverage/** linguist-generated
+search/index.json linguist-generated
